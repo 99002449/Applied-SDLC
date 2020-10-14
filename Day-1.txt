@@ -1,0 +1,83 @@
+AGENDA:	
+	V Model
+	Agile
+	Software testing
+	CI/CD
+
+Evaluation Criteria:
+	MCQ test
+	Applied Learning Report (Everyday)
+
+
+
+Stages in release of product/software
+	unit
+	integrated
+	system
+	acceptance
+	alpha
+	beta
+	RC
+	
+Stoping criteria for Testing - Unless all the requirements are met.
+Defect - Features not meeting up the requirements as expected.
+
+
+simple and complicated - V model (Requirements are cristal clear and has also gone through same project)
+Complexecd - V also fits well but Agile is the best (Requirements are unknown)
+
+TODO:
+Tea/coffee dispensing machine -(V model)
+	Requirements
+	 - High level req (feature based req)
+	 	Quanity of beverage	
+	 - Low level
+	 	Different types of coffee
+	 	power - working parameter
+	 	grinding equip for coffee bean
+	 	
+	 SEGMENT 1
+	1. Define Product - Beverage Dispenser Machine
+	2. Research - Agiging and costing (Document the referencing)
+	3. Define your product -(my own feature)
+	4. SWOT analysis (4-3-2 are repeatitive)
+	5. Requirements	
+		High Level - Feature level
+			Requirement ID and Description
+		Low level - how do that feature is working
+			Requirement ID and Description
+			
+		 SEGMENT 2	
+	  System design (UML diagram - Structural and Behavioral)
+	  	HL - Minimum 2 and Maximum 3
+	  	LL - Minimum 2 and Maximum 3
+	  	
+	  	
+	  	SEGMENT 3
+	  Two Test Plan
+	  	Integration Level Test plan - High Level
+	  	Unit Test Plan - Low level
+	  	
+	  	Table - 5 columns
+	  	Test Id	test descp	Expected Inp 	Expected Op 	Actual Op
+	  	
+	  	
+	  	
+	  	Behavioural - use case,flowchart
+	  	Structural - component dia
+	  			s/w component dia - class dia
+	  			h/w component dia - 
+	  			
+	  	Req based test
+	  	scenario based
+	  	boundary condition based
+	  	
+
+TEAM ACTIVItY
+Ac1: Defects and Recalls	  	
+Ac2: Power of Desgin
+	UML and SYSML
+	  	
+	  	
+	 
+	
