@@ -1,0 +1,50 @@
+
+Agile consists of 3 important stakeholders
+	Product owner/customer
+	Scrum master - Facilitators
+	Scrum Team (8-12 members)
+Sprint is 14 days cycle
+	
+V model is Formal way of capturing the requirements
+Agile model is Informal way of capturing the requirements along with considering the test cases while capturing requirements
+
+
+Break the requirements into Epic among the Epics select the user stories
+Every User story is assigned with Story points
+	Story point is like Fibonacci series or doubling the the previous point.	
+	Story point is just a value of estmation of effort.
+	Effort is measured as Story point in Agile
+	
+Product backlog - All these user stories,Epics and themes are added into this.(Initially Epics are priortized to collect all imp user stories)
+Sprint Backlog - All the selected user stories are added into this.
+Sprint BurntDown chart - analysis of sprint. or throughput of sprint
+
+
+	1. Product Planning - 3months
+	2. Sprint Planning -14 days (Plan for current sprint once 14 days done kick this sprint )
+	3. Standup meeting (Lead by Scrum Master) - It is for the task can be made successfull individually
+	4. Sprint Review 
+	5. Sprint Retrospect - Go back and look 
+
+Pick up new user story and loop back and continue same steps
+
+total 6 loops
+
+Agile never guarentees 
+
+
+Cost and Time is fixed in Agile
+Requirements are not fixed
+
+
+
+TESTING
+	1. MC/DC coverage (Modified Condition Decision Condition) 
+	2. Cyclometric Complexity
+	3. Code Coverage
+	
+	Times New Roman
+
+
+
+	
