@@ -1,0 +1,92 @@
+TODO: Beverage Machine
+
+			Weightage
+Individual Activity :   60%
+Team Activity       : 	 40%
+
+
+Individual Activity 1:V Model for Product
+		1. Title
+		2. Research 
+			 Aging and costing - outcome being is features(with references)
+		3. My Product Features
+		4. SWOT Analysis
+		5. Requirements
+			High Level Requirements
+			Low level Requirements
+		6. Design
+			System Design
+				Structural Diagram
+				Behavioral Diagram
+			Unit Desgin
+				Structural Diagram
+				Behavioral Diagram
+		7. Test Plan
+			Unit Test Plan
+			Integrated Test Plan
+	NOTE: EXPECTATION IS CRISP not Lengthy
+	
+Activity 2:Micro Project
+		1. Title
+		2. Research 
+			 Aging and costing - outcome being is features(with references)
+		3. My Product Features
+		4. SWOT Analysis
+		5. Requirements
+			High Level Requirements
+			Low level Requirements
+		6. Design
+			System Design
+				Structural Diagram
+				Behavioral Diagram
+			Unit Desgin
+				Structural Diagram
+				Behavioral Diagram
+		7. Implementation
+			Delta changes to be added in the implementation
+			Evolution
+			Snippet and Snapshot for:
+				1. Utilized Issues
+				2. Utilized Static and Dynamic Code Quality
+				3. Ensuring that Unit test Frame work is incomplaince with Unit Test plan. ( Few test cases need to be failed and Justify)
+		8. Test Plan
+			Unit Test Plan
+			Integrated Test Plan
+	
+	
+Activity 3:Agile Adaptation of the product(Product - Activity1)
+	Artifact -Product Backlog : Theme,Initiavte, and Epic and User stories (with story point).	
+	
+	
+	
+Team Activity 1: Defects and Recalls
+	Causes, Impact and outcome and references for the failure.(Arranged them in chronologically latest First)
+
+Team Activity 2: Understanding UML and SYSML
+	
+Team Activity 3: 
+	3.a Crisp Understanding of Agile (Manifesto , Principles, Roles, Ceremonies, Artifacts, Tools)
+	3.b Few Days - Run agile method by rotating the roles, Ceremonies etc..
+	
+Team Activity 4:
+	Product of Simple Calculator
+		1. V Model
+		2. Agile Model
+		Document the same
+
+Team Activity 5:
+	Summaries the Tools
+		
+		
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tools used in V Model and Agile
+	For Requirement  - IBM Doors
+	For UML - visual paradigm , Microsoft Visio, Enterperise Architect by Sparx, Magic draw by a Dassault Systèmes company
+	For Test plan - LDRA and Parasoft
+				Code coverage
+				MC/DC
+				Generates Automated Tests
+	For Code Implementation - GIT
+		
+		
+
